@@ -72,3 +72,14 @@ In Model folder you can find the main modeules for neural network, in weights fo
 ![Screenshot](transformed_ECG.JPG)
 
 
+## References
+Read more on the paper
+
+@misc{shvetsov2020unsupervised,
+    title={Unsupervised non-parametric change point detection in quasi-periodic signals},
+    author={Nikolay Shvetsov and Nazar Buzun and Dmitry V. Dylov},
+    year={2020},
+    eprint={2002.02717},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
